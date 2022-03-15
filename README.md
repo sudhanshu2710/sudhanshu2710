@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sudhanshu-portfolio.netlify.app/)**
 
 - 📫 How to reach me **sudhanshu.singh2710@gmail.com**
 
