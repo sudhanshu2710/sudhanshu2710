@@ -1,6 +1,6 @@
-<span>------------------------------------------------</span>
+<span>----------------------------------------------</span>
 <a href="#"><img width="40%" height="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="175px" style="margin-left: 750px"/></a>
-<span>------------------------------------------------</span>
+<span>-----------------------------------------------</span>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudhanshu</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
